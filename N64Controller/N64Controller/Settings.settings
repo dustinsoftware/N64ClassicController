@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="N64Controller" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="COMPort" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">COM2</Value>
+    </Setting>
+    <Setting Name="Deadzone" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">4096</Value>
+    </Setting>
+    <Setting Name="CButtonDeadzone" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">16384</Value>
+    </Setting>
+    <Setting Name="StickX" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">X</Value>
+    </Setting>
+    <Setting Name="StickY" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Y</Value>
+    </Setting>
+    <Setting Name="CStickX" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Z</Value>
+    </Setting>
+    <Setting Name="CStickY" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">RotationZ</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
